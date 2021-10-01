@@ -5,9 +5,6 @@ import "./style.css";
 import Footer from "../../Components/Footer/index";
 import { BsFillCollectionPlayFill, BsFillHeartFill } from "react-icons/bs";
 import { RiPlayList2Fill } from "react-icons/ri";
-import img1 from "../../assets/images/img1.jpg";
-import img2 from "../../assets/images/img-2.jpg";
-import img3 from "../../assets/images/img-3.jpg";
 import { GrPlayFill, GrBookmark } from "react-icons/gr";
 
 
