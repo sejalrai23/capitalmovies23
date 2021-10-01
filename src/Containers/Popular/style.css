@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+.lines2{
+  width:40%;
+  background: #a45fc2;
+  margin:15px 0px 0px 0px;
+  height:2px;
+  color:#fff;
+}
+
+.lines-title{
+    width:20%;
+}
+.lines-title h4{
+ 
+  font-size:30px;
+  text-align:center !important;
+  color:#57246D;
+  /* margin:0 30px; */
+  text-transform: uppercase;
+  font-family: 'Acme', sans-serif;
+}
+.movie-header{
+  display: flex;
+  margin:30px 0;
+}
+.morph{
+  width: 400px;
+  height:400px;
+  background: rgba( 117, 44, 154, 0.25);
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 15.5px );
+-webkit-backdrop-filter: blur( 15.5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.morph img{
+  width:400px; 
+  height:200px;
+}
+
+
+.morph-text{
+  margin:10px 10px;
+}
+.morph-text h4{
+  font-size:25px;
+  font-weight:bold;
+  font-family: Arial, Helvetica, sans-serif;
+  border-bottom:1px solid #572466;
+}
+.morph-text p{
+  font-size:18px;
+  font-family: 'Times New Roman', Times, serif;
+}
+ .morph-icons{
+ display:flex;
+ margin:0px 70% 0%;
+  
+}
+.morph-icons div{
+  margin:0px 10px;
+}

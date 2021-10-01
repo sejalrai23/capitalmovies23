@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+.navbar{
+  background: linear-gradient(#fff,#fff,#fff,#fff,#b68dc7) ;
+  
+}
+.navbar-light .navbar-brand{
+  font-family: 'Acme', sans-serif;
+  color:#57246D ;
+  font-size: 25px ;
+  text-transform: uppercase;
+  font-weight:900;
+  letter-spacing:2px;
+
+}
+/* .navbar-light .navbar-brand .heading{
+  border-bottom: 2px solid #57246D  ;
+  right : 20px;
+} */
+
+.navbar-light .navbar-brand hr{
+  font-weight: bold;
+  width:80%;
+  margin-top:-0.2rem;
+   height:3px;
+   background:#57246D ;
+}
+
+/* .navbar-nav{
+  margin-right: -3rem;
+} */
+.navbar-light .navbar-brand .hr-2{
+   font-weight: bold;
+  width:70%;
+  margin-top:-0.6rem;
+   height:4px;
+   background:#57246D;
+
+}
+
+.navbar-light .navbar-nav .nav-link{
+  margin-bottom: 20px;
+  color: #a45fc2;
+  font-size:18px;
+  text-transform:uppercase;
+  font-weight:600;
+}
+
+.navbar-light .navbar-nav > .nav-link:hover{
+    color:#57246D;
+    border-bottom: 2px solid #a45fc2;
+    
+}
+
+.navbar-light .toggle{
+  margin-bottom: 20px;
+  color:#57246D;
+  
+}
+
+/* .navbar-light .collapse{
+  background: linear-gradient(#fff,#fff,#b68dc7) ;
+  
+} */
+.navbar-light .collapse .nav-link{
+  text-align: center;
+  
+}

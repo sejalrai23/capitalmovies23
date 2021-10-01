@@ -10,8 +10,8 @@ const Login = () => {
       <div className="container">
         <div className="row content">
           <div className="col-md-6 mb-3">
-            <div className="loginimg">
-              <img fluid src={login} alt="login" />
+            <div className="loginimg mt-2">
+              <img className="img-fluid" src={login} alt="login" />
             </div>
           </div>
           <div className="col-md-6">
